@@ -1,1 +1,21 @@
-# Employee_Retention_Prediction_Project
+# Employee Retention Prediction Project
+
+## Overview
+
+
+
+## Business Understanding
+
+
+
+## Data Understanding
+
+
+
+## Modeling and Evaluation
+
+
+
+## Conclusion
+
+
