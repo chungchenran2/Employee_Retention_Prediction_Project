@@ -13,6 +13,7 @@ If Salifort could predict whether an employee will leave the company, and discov
 ## Data Understanding
 
 The data came from a survey conducted by HR on a sample of employees. The data consisted of approximately 15k unique employee responses and 10 features. The features included information on employee's self-reported satisfaction level, score of employee's last performance review, number of projects employee contributes to, and so on. The bar chart below shows the breakdown of how many employees who left the company versus employees who stayed with the company that exist in the data set.
+![Proportion of left column](https://github.com/chungchenran2/Employee_Retention_Prediction_Project/blob/main/Images/Salifort_left_proportion.png)
 
 ## Modeling and Evaluation
 
