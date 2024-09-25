@@ -26,4 +26,4 @@ A random forest model comprising 200 decision trees was used to determine featur
 
 ## Conclusion
 
-
+This model can benefit Salifort’s senior leadership team in knowing whether an employee will leave the company and discovering the reasons behind the employee's departure. In light of the champion model’s performance and the dataset the model is based on, the company should regularly conduct similar HR surveys and apply the model on the results to predict the possibility of employee turnover.
