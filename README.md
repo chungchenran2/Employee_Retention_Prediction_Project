@@ -16,9 +16,13 @@ The data came from a survey conducted by HR on a sample of employees. The data c
 
 ![Proportion of left column](https://github.com/chungchenran2/Employee_Retention_Prediction_Project/blob/main/Images/Salifort_left_proportion.png)
 
+During model building, there were four features that were not important for the random forest model, they are department, salary, work_accident, and promotion_last_5years. Taking these four features out would not affect the performance of the random forest model.
+
 ## Modeling and Evaluation
 
+A random forest model comprising 200 decision trees was used to determine feature importance in who would leave the company or not. The below plot shows that an employee's satisfaction level, number of projects an employee contributed to, and the employee's last performance score were the Top 3 most important factors in determining an employee who leaves the company from an employee who stays. The overall model performed with 98.4% accuracy, 97.4% precision, and 92.7% recall.
 
+![RF feature importances](https://github.com/chungchenran2/Employee_Retention_Prediction_Project/blob/main/Images/Salifort_RF_tr_drop_feature_importances.png)
 
 ## Conclusion
 
